@@ -1,0 +1,15 @@
+{
+  "name": "number-name",
+  "version": "1.0.0",
+  "description": "Get a list of words based on the numerical input of a touch tone keypad",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -reporter nyan"
+  },
+  "type": "module",
+  "author": "tom@devups.com",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
